@@ -18,7 +18,7 @@ public class Board {
     private Long id;
 
     @Column(nullable = false)
-    private String content;
+    private String content33333;
 
     @Column(nullable = false)
     private String title;
